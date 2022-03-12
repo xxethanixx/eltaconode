@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa95a68B24E001bA1E1038e73074C33B1c6815428",
+  "SCAN_LINK": "https://testnet.snowtrace.io/0xa95a68B24E001bA1E1038e73074C33B1c6815428",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "El Taco Node",
+  "SYMBOL": "El Taco NFT",
+  "MAX_SUPPLY": 6500,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://testnets.nftrade.com/users/fuji/0xd87bfdc6b26277d53af09a7c45bb1c7452e98d50",
+  "SHOW_BACKGROUND": true
+}
